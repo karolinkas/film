@@ -1,3 +1,5 @@
+alert("me is hero");
+
 var x = 250;
 var y = 250;
 
